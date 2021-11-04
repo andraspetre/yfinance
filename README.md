@@ -1,3 +1,3 @@
 # yfinance
 
-Stock correlation analysis according Yahoo Finance.
+Stock correlation analysis according to Yahoo Finance.
